@@ -21,7 +21,7 @@ inputs:
     description: "Output format for results"
     default: "stdout"
 runs:
-  using: 'conftest'
+  using: 'docker'
   image: 'openpolicyagent/conftest:latest'
   entrypoint: sh
   args:
