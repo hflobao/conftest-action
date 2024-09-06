@@ -1,6 +1,6 @@
 name: "Conftest"
 description: "Write tests against structured configuration data using Open Policy Agent"
-author: "Gareth Rushgrove"
+author: "Henrique Lobao"
 branding:
   icon: "check"
   color: "green"
